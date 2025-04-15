@@ -1,4 +1,4 @@
-package com.romitshrivastava.arrays;
+package com.romitshrivastava.string;
 
 public class LongestCommonPrefix {
     public static void main(String[] args) {
